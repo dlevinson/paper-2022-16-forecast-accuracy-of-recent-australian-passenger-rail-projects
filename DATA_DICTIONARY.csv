@@ -1,0 +1,12 @@
+file,sheet,rows,columns,description
+"Ridership following Years.xlsx",Sheet1,241,19,"Actual ridership follow-up years and derived ratios by project/year."
+"Staged Cost and Boarding Forecast.xlsx",Sheet1,43,20,"Project identifiers, project metadata, staged cost estimates, forecast boardings, and actual boarding comparisons."
+"TransitTravelTime.xlsx",Sheet1,66,15,"Estimated and actual light rail/bus travel-time comparison fields with percentage-error summaries."
+"TransitTravelTime.xlsx",Sheet3,66,15,"Station/route-level travel-time measurement fields, including origin station and estimated/actual travel times."
+"TransitTravelTime.xlsx",Sheet2,49,5,"US state lookup/reference sheet."
+"US_LR_All.xlsx",US_LR_All,60,40,"US light rail project comparison workbook with project, alternative, cost-effectiveness, and selection fields."
+"US_LR_All.xlsx","Projects Overview",47,18,"US light rail project overview table including project title, state, city, operator, mode, and timeline fields."
+"US_LR_All.xlsx","Criteria of LPA Approval",16,3,"Narrative criteria/reference sheet for locally preferred alternative approval categories."
+"US_LR_All.xlsx","At least 4-year lag of Const.",14,17,"Subset/reference sheet for projects with at least four-year construction lag fields."
+"US_LR_All.xlsx","Fake Alts ",30,3,"Alternative-category reference sheet."
+"US_LR_All.xlsx","DART North Central Cord.",28,6,"DART North Central corridor forecast/actual reference sheet."
