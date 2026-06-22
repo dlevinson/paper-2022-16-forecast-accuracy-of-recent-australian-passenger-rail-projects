@@ -10,13 +10,13 @@ Wang, Y., & Levinson, D. M. (2022). Forecast Accuracy of Recent Australian Passe
 
 ## Status
 
-Pipeline status: `WORK-REQUIRED/SEARCH/PUBLIC-OR-CODE`
+Pipeline status: `UPLOADED`
 
-This is a public package candidate staged from data supplied by Yadi Wang on 2026-05-31. No human-subjects or privacy restriction is apparent in the supplied project-level derived tables.
+This is a public package assembled from data supplied by Yadi Wang on 2026-05-31 and uploaded to GitHub. No human-subjects or privacy restriction is apparent in the supplied project-level derived tables.
 
 ## Included Files
 
-- `paper/ATRF2022_Resubmission_41.pdf`: local reference copy of the ATRF proceedings paper for audit convenience.
+- `paper/forecast-accuracy-australian-passenger-rail-projects-2022.pdf`: published ATRF proceedings paper reference copy.
 - `data/Ridership following Years.xlsx`: actual ridership follow-up year workbook.
 - `data/Staged Cost and Boarding Forecast.xlsx`: staged cost and boarding forecast workbook.
 - `data/TransitTravelTime.xlsx`: actual and forecast transit travel-time summary workbook.
