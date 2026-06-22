@@ -1,12 +1,16 @@
 # Forecast Accuracy of Recent Australian Passenger Rail Projects
 
+## Contribution
+
+This paper compares the ex ante appraisal and realized operating performance of six recent Australian passenger-rail projects. It documents cases where bus rapid transit outperformed the selected rail option in benefit–cost analysis, finds that only one project met its opening-year patronage target, and provides an evidence base for improving future demand, travel-time, and modal-choice forecasts.
+
 Data package for:
 
 Wang, Y., & Levinson, D. M. (2022). Forecast Accuracy of Recent Australian Passenger Rail Projects. Australasian Transport Research Forum Proceedings.
 
 ## Status
 
-Pipeline status: `READY-TO-UPLOAD/PUBLIC`
+Pipeline status: `WORK-REQUIRED/SEARCH/PUBLIC-OR-CODE`
 
 This is a public package candidate staged from data supplied by Yadi Wang on 2026-05-31. No human-subjects or privacy restriction is apparent in the supplied project-level derived tables.
 
