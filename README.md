@@ -16,6 +16,9 @@ This is a public package assembled from data supplied by Yadi Wang on 2026-05-31
 
 ## Included Files
 
+- `LICENSE`: operative repository reuse and provenance boundary.
+- `LICENSE_STATUS.md`: reviewed license-status summary.
+- `PACKAGE_STATUS.md`: reviewed package-status summary.
 - `paper/forecast-accuracy-australian-passenger-rail-projects-2022.pdf`: published ATRF proceedings paper reference copy.
 - `data/Ridership following Years.xlsx`: actual ridership follow-up year workbook.
 - `data/Staged Cost and Boarding Forecast.xlsx`: staged cost and boarding forecast workbook.
@@ -33,4 +36,8 @@ No code or analysis scripts were supplied with this delivery.
 
 ## Release Boundary
 
-Public release boundary is the derived project-level workbook package plus documentation. The package does not claim to include every underlying planning/EIS source document.
+The operative repository boundary is recorded in `LICENSE`. Author-created repository documentation, package metadata, manifests, checksum records, and data dictionaries are licensed under CC BY 4.0 where the authors or repository maintainers control the rights.
+
+The coauthor-supplied Excel workbooks under `data/` are retained as paper-specific derived-data evidence and are not blanket-relicensed by this repository pending a documented coauthor/source-data license grant. Underlying project appraisal documents, government patronage sources, travel-time measurements, planning documents, and other source materials represented in the workbooks retain their original terms. The proceedings PDF in `paper/` remains a local audit reference copy and is not relicensed here. No MIT software license is asserted because no code or analysis scripts are staged.
+
+The package does not claim to include every underlying planning/EIS source document.

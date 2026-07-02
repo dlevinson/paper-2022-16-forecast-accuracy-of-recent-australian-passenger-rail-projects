@@ -1,0 +1,26 @@
+License and provenance boundary for this repository
+
+This repository is a mixed paper-data package. The terms below apply only where
+the authors or repository maintainers control the rights.
+
+Author-created repository documentation, package metadata, manifests, checksum
+records, and data dictionaries are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+The Excel workbooks under `data/` were supplied by coauthor Yadi Wang for this
+paper package and are preserved here as paper-specific derived-data evidence.
+This repository does not assert a blanket reuse license over those workbooks
+unless and until a separate coauthor/source-data license grant is documented.
+Reuse of those workbooks should cite the paper and the repository provenance,
+and should respect any terms that attach to the underlying project appraisal
+documents, government patronage sources, travel-time measurements, planning
+documents, or other source materials represented in the workbooks.
+
+The proceedings PDF in `paper/` is included only as a local audit reference copy
+and retains its publisher or repository terms. It is not relicensed here.
+
+No MIT software license is asserted because this repository does not stage
+paper-specific scripts, notebooks, model source code, or other executable
+software.

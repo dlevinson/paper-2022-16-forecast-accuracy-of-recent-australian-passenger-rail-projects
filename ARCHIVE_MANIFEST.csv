@@ -1,4 +1,11 @@
 path,role,size_bytes,sha256,source_path_or_note
+"README.md",documentation,3111,823bf424bef80cc0b471a90c1dc73a43267fce5f59d8ea6b4a37c76f604c92b5,"Repository overview and release-boundary documentation"
+"LICENSE",license_notice,1366,a0b3baf28c77fcf4f4bf8dd1faecbee85c001e0a7b6f67d219c3bc3b7d5759cc,"Operative root reuse and provenance boundary"
+"LICENSE_STATUS.md",license_status,1087,1da52187b181a40666065e31d4c2a7b5ea3f61a4c4b8e98b6a45f80bd093c44a,"Reviewed license-status summary"
+"PACKAGE_STATUS.md",package_status,1096,e7d831ba4b0da2d205236f62cffe73f281a2bab89fc5e9e5db9dd196a1d02f04,"Reviewed package-status summary"
+"DATA_DICTIONARY.csv",metadata,1461,c8df5b70e185f3d09477884b5747001f33e1ac40b344e1d6160d2c349b86b582,"File and sheet-level description"
+"CHECKSUMS.sha256",metadata,526,7473627b75726f5d199b1fbd8558b5f937321978f969eb2a97eae9e299bc21c2,"Checksums for included paper/data files"
+"metadata/COAUTHOR_DELIVERY_20260531.md",provenance,708,e968af5fd8c8ed117e0f23950107a17d0e6f7fe6a8bac68e5d76a037e388d5a0,"Yadi Wang coauthor data-delivery note summarized from 2026-05-31"
 "paper/forecast-accuracy-australian-passenger-rail-projects-2022.pdf",paper_reference,433966,baddab2fb04aa0dbda7a411439f92bcac205bbeb0a68ba5506fa92a64ab01c55,"Published ATRF 2022 proceedings paper; original local source filename was ATRF2022_Resubmission_41.pdf"
 "data/Ridership following Years.xlsx",data,18626,fb748edcf801e8b1e3ae5a8db3db9b82f1dc6ece568c4d5d74e6612c5fde45a9,"Yadi Wang delivery, Alternative_paper folder, 2026-05-31"
 "data/Staged Cost and Boarding Forecast.xlsx",data,20191,3131868fc1e977e70dafc2ee5578f2f0cb30d96c908491c7f83d40af7a845ebf,"Yadi Wang delivery, Alternative_paper folder, 2026-05-31"
